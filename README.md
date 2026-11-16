@@ -27,4 +27,8 @@ hopz.sql - this is the MySQL table structures.  I have added a few hosts in the 
 
 ###########
 
+A bunch of jpegs - just screenshots of the process.pl output along with other stuff like the some sql tables populated.
+
+###########
+
 NOTE - nothing has really changed from 2002. I exported out of my cvs, quickly ran on this new Debian system and publish here.  I believe this was put together on a RH or Fedora system back then.  It's been 24+ years.  I remember stuff generally working but there is lots of room for improvement here. I suspect it should work out of the gate.
