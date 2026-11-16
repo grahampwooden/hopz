@@ -6,7 +6,9 @@ A simple set of tools to capture IP path metrics (hop count, latency) - either b
 I don't remember if it was for a client or just messing around.  This was about 24 years ago now ...
 
 There are three file main scripts.  I presumed I was going to have a web-front end to manage this, but never got around to it.
-Designed to be a simple LAMPP app (Linux, Apache, MySQL, PHP, Perl) - but just the backend and SQL stuff got done.
+Designed to be a simple LAMPP app (Linux, Apache, MySQL, PHP, Perl) - but just the backend and SQL stuff got done.  
+
+Uses the "raw" output from mtr - and I did have to make some quick changes to it as it had changed from 2002 to now, so that is the only piece that was re-worked since then.
 
 ###########
 
